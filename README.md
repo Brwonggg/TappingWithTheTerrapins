@@ -1,5 +1,5 @@
 # TAPPING WITH THE TERRAPINS
-#### Video Demo:  <https://youtu.be/lnPHP-HU-j0>
+#### Video Demo:  
 #### Description:
 
 # What my project is
